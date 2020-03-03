@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures and Fonts\font.spritefont</Source>
+      <Name>Textures and Fonts\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\Textures and Fonts\font.xnb</Output>
+      <Time>2019-05-03T20:21:55.784836-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures and Fonts\fontS.spritefont</Source>
+      <Name>Textures and Fonts\fontS</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\Textures and Fonts\fontS.xnb</Output>
+      <Time>2019-05-20T17:54:19.9060669-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures and Fonts\Title.spritefont</Source>
+      <Name>Textures and Fonts\Title</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\Textures and Fonts\Title.xnb</Output>
+      <Time>2019-05-21T18:18:04.6204894-05:00</Time>
+    </Item>
+    <Item>
+      <Source>white.png</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2019-04-20T13:46:49.3279842-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures and Fonts\GameOverBrick.png</Source>
+      <Name>Textures and Fonts\GameOverBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\Textures and Fonts\GameOverBrick.xnb</Output>
+      <Time>2019-05-03T20:21:55.784836-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures and Fonts\Darkness.png</Source>
+      <Name>Textures and Fonts\Darkness</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\Textures and Fonts\Darkness.xnb</Output>
+      <Time>2019-05-20T17:52:38.5293167-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures and Fonts\Lava.png</Source>
+      <Name>Textures and Fonts\Lava</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\Textures and Fonts\Lava.xnb</Output>
+      <Time>2019-05-20T17:52:38.5303157-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures and Fonts\Background.png</Source>
+      <Name>Textures and Fonts\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\Textures and Fonts\Background.xnb</Output>
+      <Time>2019-05-20T17:52:38.5283157-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures and Fonts\Trans.png</Source>
+      <Name>Textures and Fonts\Trans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\Textures and Fonts\Trans.xnb</Output>
+      <Time>2019-05-21T21:44:44.1213954-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D2218AD8-0ED8-4FCD-8E71-524555B17F72}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLuddeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Main\Documents\GitHub\MarkevandLudde\MarkevandLudde\MarkevandLudde\MarkevandLudde\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-03-21T20:49:19.1416416-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
